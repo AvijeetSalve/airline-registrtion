@@ -1,0 +1,33 @@
+C:\Users\avije\source\repos\Airline registration\bin\Debug\net6.0-windows\Airline registration.exe
+C:\Users\avije\source\repos\Airline registration\bin\Debug\net6.0-windows\Airline registration.dll
+C:\Users\avije\source\repos\Airline registration\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\avije\source\repos\Airline registration\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\avije\source\repos\Airline registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\avije\source\repos\Airline registration\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\avije\source\repos\Airline registration\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\avije\source\repos\Airline registration\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline registration.csproj.AssemblyReference.cache
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline_registration.AddPassengers.resources
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline_registration.Cancellationtable.resources
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline_registration.Flighttable.resources
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline_registration.Home.resources
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline_registration.Login.resources
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline_registration.Properties.Resources.resources
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline_registration.Splash.resources
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline_registration.Ticket.resources
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline_registration.Viewflight.resources
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline_registration.ViewPassengers.resources
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline registration.csproj.GenerateResource.cache
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline registration.AssemblyInfoInputs.cache
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline registration.AssemblyInfo.cs
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline registration.csproj.CoreCompileInputs.cache
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline registration.csproj.CopyComplete
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline registration.dll
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\refint\Airline registration.dll
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline registration.pdb
+C:\Users\avije\source\repos\Airline registration\bin\Debug\net6.0-windows\Airline registration.deps.json
+C:\Users\avije\source\repos\Airline registration\bin\Debug\net6.0-windows\Airline registration.runtimeconfig.json
+C:\Users\avije\source\repos\Airline registration\bin\Debug\net6.0-windows\Airline registration.pdb
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\Airline registration.genruntimeconfig.cache
+C:\Users\avije\source\repos\Airline registration\obj\Debug\net6.0-windows\ref\Airline registration.dll
